@@ -1,0 +1,334 @@
+﻿No.,Mandarin,Pinyin,English,Example
+1,什麼,shénme,what,這是什麼？(Zhè shì shénme?) - What is this?
+2,名字,míngzì,first name,你的名字是什麼？(Nǐ de míngzì shì shénme?) - What is your first name?
+3,姓名,xìngmíng,full name,請告訴我你的姓名。(Qǐng gàosù wǒ nǐ de xìngmíng.) - Please tell me your full name.
+4,呢,ne,how about,你呢？(Nǐ ne?) - How about you?
+5,印尼,Yìnní,Indonesia,我來自印尼。(Wǒ láizì Yìnní.) - I am from Indonesia.
+6,喜歡,xǐhuān,to like,我喜歡吃水果。(Wǒ xǐhuān chī shuǐguǒ.) - I like to eat fruit.
+7,新,xīn,new,這是我的新書。(Zhè shì wǒ de xīn shū.) - This is my new book.
+8,同學,tóngxué,classmate,他是我的同學。(Tā shì wǒ de tóngxué.) - He is my classmate.
+9,他,tā,he; him,他是老師。(Tā shì lǎoshī.) - He is a teacher.
+10,她,tā,she; her,她是我的朋友。(Tā shì wǒ de péngyǒu.) - She is my friend.
+11,誰,shéi,who,誰在那裡？(Shéi zài nàlǐ?) - Who is there?
+12,叫,jiào,to be called,我叫王明。(Wǒ jiào Wáng Míng.) - I am called Wang Ming.
+13,姓,xìng,to be surnamed,我的姓是李。(Wǒ de xìng shì Lǐ.) - My surname is Li.
+14,很,hěn,very,她很漂亮。(Tā hěn piàoliàng.) - She is very pretty.
+15,可愛,kě'ài,lovely; cute,這只貓很可愛。(Zhè zhī māo hěn kě'ài.) - This cat is very cute.
+16,哪,nǎ / něi,which,哪個是你的書？(Nǎ ge shì nǐ de shū?) - Which one is your book?
+17,國,guó,country,我來自哪個國家？(Wǒ láizì nǎ ge guójiā?) - Which country am I from?
+18,知道,zhīdào,to know,你知道他嗎？(Nǐ zhīdào tā ma?) - Do you know him?
+19,日本,Rìběn,Japan,我想去日本。(Wǒ xiǎng qù Rìběn.) - I want to go to Japan.
+20,臺灣/台灣,Táiwān,Taiwan,他來自台灣。(Tā láizì Táiwān.) - He is from Taiwan.
+21,中國,Zhōngguó,China,我們要去中國。(Wǒmen yào qù Zhōngguó.) - We are going to China.
+22,美國,Měiguó,America,我想去美國學習。(Wǒ xiǎng qù Měiguó xuéxí.) - I want to study in America.
+23,英國,Yīngguó,England,他是來自英國。(Tā shì láizì Yīngguó.) - He is from England.
+24,漂亮,piàoliàng,pretty,她今天看起來很漂亮。(Tā jīntiān kàn qǐlái hěn piàoliàng.) - She looks very pretty today.
+25,大家,dàjiā,everyone,"大家好！(Dàjiā hǎo!) - Hello, everyone!"
+26,朋友,péngyǒu,friend,他是我的好朋友。(Tā shì wǒ de hǎo péngyǒu.) - He is my good friend.
+27,愛,ài,to love,我愛我的家人。(Wǒ ài wǒ de jiārén.) - I love my family.
+28,吃,chī,to eat,我喜歡吃水果。(Wǒ xǐhuān chī shuǐguǒ.) - I like to eat fruit.
+29,水果,shuǐguǒ,fruit,我喜歡吃水果。(Wǒ xǐhuān chī shuǐguǒ.) - I like fruit.
+30,喝,hē,to drink,我喝茶。(Wǒ hē chá.) - I drink tea.
+31,水,shuǐ,water,我喝水。(Wǒ hē shuǐ.) - I drink water.
+32,茶,chá,tea,我喜歡喝茶。(Wǒ xǐhuān hē chá.) - I like to drink tea.
+33,謝謝,xièxie,to thank,謝謝你的幫助。(Xièxie nǐ de bāngzhù.) - Thank you for your help.
+34,不客氣,bú kèqì,You are welcome,"不客氣，我很高興幫助你。(Bú kèqì, wǒ hěn gāoxìng bāngzhù nǐ.) - You're welcome, I'm happy to help you."
+35,自我介紹,zìwǒ jièshào,self-introduction,請做自我介紹。(Qǐng zuò zìwǒ jièshào.) - Please do a self-introduction.
+36,珍珠奶茶,zhēnzhū nǎichá,bubble milk tea,我很喜歡珍珠奶茶。(Wǒ hěn xǐhuān zhēnzhū nǎichá.) - I really like bubble milk tea.
+37,奶茶,nǎichá,milk tea,你要喝奶茶嗎？(Nǐ yào hē nǎichá ma?) - Do you want to drink milk tea?
+38,點 / 點鐘,diǎn / diǎnzhōng,o'clock,現在幾點鐘？(Xiànzài jǐ diǎnzhōng?) - What time is it now?
+39,現在,xiànzài,now,"現在我們要走了。(Xiànzài wǒmen yào zǒu le.) - Now, we need to leave."
+40,幾,jǐ,how many,你有幾個蘋果？(Nǐ yǒu jǐ ge píngguǒ?) - How many apples do you have?
+41,去,qù,to go,我們要去學校。(Wǒmen yào qù xuéxiào.) - We are going to school.
+42,學校,xuéxiào,school,我在學校學中文。(Wǒ zài xuéxiào xué zhōngwén.) - I study Chinese at school.
+43,媽媽,māma,mom,我的媽媽做飯很好吃。(Wǒ de māma zuò fàn hěn hǎochī.) - My mom cooks very delicious food.
+44,爸爸,bàba,dad,我的爸爸很高。(Wǒ de bàba hěn gāo.) - My dad is very tall.
+45,孩子,háizi,child; children,我有三個孩子。(Wǒ yǒu sān ge háizi.) - I have three children.
+46,今天,jīntiān,today,今天是我的生日。(Jīntiān shì wǒ de shēngrì.) - Today is my birthday.
+47,星期,xīngqí,week; day of the week,星期五我去看電影。(Xīngqí wǔ wǒ qù kàn diànyǐng.) - I will go to the movies on Friday.
+48,月,yuè,month,我下個月要去旅行。(Wǒ xià ge yuè yào qù lǚxíng.) - I will travel next month.
+49,號,hào,measure word for dates/numbers,今天是三月三號。(Jīntiān shì sān yuè sān hào.) - Today is March 3rd.
+50,日,rì,day,今天是我的生日。(Jīntiān shì wǒ de shēngrì.) - Today is my birthday.
+51,星期天,xīngqítiān,Sunday,"星期天我和朋友一起去逛街。(Xīngqítiān wǒ hé péngyǒu yīqǐ qù guàngjiē.) - On Sunday, I go shopping with my friends."
+52,早上,zǎoshàng,morning,我每天早上六點起床。(Wǒ měitiān zǎoshàng liù diǎn qǐchuáng.) - I get up at 6 AM every morning.
+53,有,yǒu,to have,我有兩本書。(Wǒ yǒu liǎng běn shū.) - I have two books.
+54,圖書館,túshūguǎn,library,我每天都去圖書館借書。(Wǒ měitiān dōu qù túshūguǎn jiè shū.) - I go to the library every day to borrow books.
+55,中午,zhōngwǔ,noon,我中午吃飯。(Wǒ zhōngwǔ chī fàn.) - I eat lunch at noon.
+56,回,huí,to return; to go back,我五點鐘回家。(Wǒ wǔ diǎn zhōng huí jiā.) - I go home at 5 o'clock.
+57,家,jiā,home,我今天下午回家。(Wǒ jīntiān xiàwǔ huí jiā.) - I will go home this afternoon.
+58,家人,jiārén,family,我的家人很關心我。(Wǒ de jiārén hěn guānxīn wǒ.) - My family cares about me a lot.
+59,下午,xiàwǔ,afternoon,下午我有課。(Xiàwǔ wǒ yǒu kè.) - I have class in the afternoon.
+60,上午,shàngwǔ,morning,上午我去跑步。(Shàngwǔ wǒ qù pǎobù.) - I go for a run in the morning.
+61,下課,xiàkè,class is over,"下課後我們一起去吃飯。(Xiàkè hòu wǒmen yīqǐ qù chī fàn.) - After class, we will go eat together."
+62,上課,shàngkè,to attend class,我每天都上課。(Wǒ měitiān dōu shàngkè.) - I attend classes every day.
+63,分,fēn,minute,現在是五分鐘前。(Xiànzài shì wǔ fēnzhōng qián.) - It was five minutes ago.
+64,明天,míngtiān,tomorrow,明天我們去旅行。(Míngtiān wǒmen qù lǚxíng.) - We will travel tomorrow.
+65,昨天,zuótiān,yesterday,昨天我去看了電影。(Zuótiān wǒ qù kàn le diànyǐng.) - I went to see a movie yesterday.
+66,週末,zhōumò,weekend,我週末常常去跑步。(Wǒ zhōumò chángcháng qù pǎobù.) - I often go for a run on weekends.
+67,要,yào,to want (to do something),我想要學中文。(Wǒ xiǎng yào xué zhōngwén.) - I want to learn Chinese.
+68,來,lái,to come,你來嗎？(Nǐ lái ma?) - Are you coming?
+69,啊,ā,interjection (indicating surprise),這是真的嗎？啊！(Zhè shì zhēn de ma? Ā!) - Is this real? Ah!
+70,的,de,possessive particle,這是我的書。(Zhè shì wǒ de shū.) - This is my book.
+71,生日,shēngrì,birthday,我的生日是六月十日。(Wǒ de shēngrì shì liù yuè shí rì.) - My birthday is on June 10th.
+72,快樂,kuàilè,happy,祝你生日快樂！(Zhù nǐ shēngrì kuàilè!) - Happy birthday!
+73,晚上,wǎnshàng,evening; night,我晚上去跑步。(Wǒ wǎnshàng qù pǎobù.) - I go for a run in the evening.
+74,問題,wèntí,question; problem,你有問題嗎？(Nǐ yǒu wèntí ma?) - Do you have any questions?
+75,老師,lǎoshī,teacher,我的老師很友好。(Wǒ de lǎoshī hěn yǒuhǎo.) - My teacher is very friendly.
+76,學生,xuéshēng,student,我是學生。(Wǒ shì xuéshēng.) - I am a student.
+77,做,zuò,to make; to do,我在做功課。(Wǒ zài zuò gōngkè.) - I am doing my homework.
+78,歲,suì,measure word for age,我今年二十歲。(Wǒ jīnnián èrshí suì.) - I am 20 years old this year.
+79,起床,qǐchuáng,to get up,我每天七點起床。(Wǒ měitiān qī diǎn qǐchuáng.) - I get up at 7 o'clock every day.
+80,午飯,wǔfàn,lunch,我中午吃午飯。(Wǒ zhōngwǔ chī wǔfàn.) - I eat lunch at noon.
+81,飯,fàn,cooked rice; meal,我吃了一碗飯。(Wǒ chī le yī wǎn fàn.) - I ate a bowl of rice.
+82,早飯,zǎofàn,breakfast,我早上吃了早飯。(Wǒ zǎoshàng chī le zǎofàn.) - I had breakfast in the morning.
+83,晚飯,wǎnfàn,dinner,我們晚上吃晚飯。(Wǒmen wǎnshàng chī wǎnfàn.) - We eat dinner in the evening.
+84,做飯,zuòfàn,to cook,我的媽媽做飯很好吃。(Wǒ de māmā zuò fàn hěn hǎochī.) - My mom cooks very delicious food.
+85,睡覺,shuìjiào,to sleep; to go to bed,我每天十點睡覺。(Wǒ měitiān shí diǎn shuìjiào.) - I go to bed at 10 o'clock every day.
+86,忙,máng,busy,我最近很忙。(Wǒ zuìjìn hěn máng.) - I have been very busy lately.
+87,累,lèi,tired,我今天很累。(Wǒ jīntiān hěn lèi.) - I am very tired today.
+88,買,mǎi,to buy,我買了一本書。(Wǒ mǎi le yī běn shū.) - I bought a book.
+89,禮物,lǐwù,gift,我送給他一個禮物。(Wǒ sòng gěi tā yī ge lǐwù.) - I gave him a gift.
+90,想,xiǎng,to want; would like to,我想去旅行。(Wǒ xiǎng qù lǚxíng.) - I want to travel.
+91,送,sòng,to give as a present,我送了他一個生日禮物。(Wǒ sòng le tā yī ge shēngrì lǐwù.) - I gave him a birthday gift.
+92,個,gè,general measure word,這是我買的兩個書。(Zhè shì wǒ mǎi de liǎng ge shū.) - These are the two books I bought.
+93,看,kàn,to read; to look; to watch,我喜歡看電影。(Wǒ xǐhuān kàn diànyǐng.) - I like to watch movies.
+94,書,shū,book,這本書很有趣。(Zhè běn shū hěn yǒuqù.) - This book is very interesting.
+95,兩,liǎng,two (for quantity),我有兩隻狗。(Wǒ yǒu liǎng zhī gǒu.) - I have two dogs.
+96,本,běn,measure word for books,這是一本中文書。(Zhè shì yī běn zhōngwén shū.) - This is a Chinese book.
+97,中文,Zhōngwén,Chinese,我學習中文。(Wǒ xuéxí zhōngwén.) - I study Chinese.
+98,英文,Yīngwén,English,他會說英文。(Tā huì shuō Yīngwén.) - He can speak English.
+99,一些,yīxiē,some (for quantity),我有一些蘋果。(Wǒ yǒu yīxiē píngguǒ.) - I have some apples.
+100,花,huā,flower,這朵花很漂亮。(Zhè duǒ huā hěn piàoliàng.) - This flower is very beautiful.
+101,朵,duǒ,measure word for flowers,我買了一朵玫瑰花。(Wǒ mǎi le yī duǒ méiguī huā.) - I bought a rose.
+102,和,hé / hàn,and,我和我的朋友一起去看電影。(Wǒ hé wǒ de péngyǒu yīqǐ qù kàn diànyǐng.) - My friend and I are going to watch a movie together.
+103,大,dà,big,這個房間很大。(Zhège fángjiān hěn dà.) - This room is very big.
+104,小,xiǎo,small,我有一隻小狗。(Wǒ yǒu yī zhī xiǎo gǒu.) - I have a small dog.
+105,蛋糕,dàngāo,cake,我們做了一個巧克力蛋糕。(Wǒmen zuò le yī ge qiǎokèlì dàngāo.) - We made a chocolate cake.
+106,蛋,dàn,egg,我喜歡吃煎蛋。(Wǒ xǐhuān chī jiān dàn.) - I like to eat fried eggs.
+107,一起,yīqǐ,together,我們一起去旅行。(Wǒmen yīqǐ qù lǚxíng.) - We are going to travel together.
+108,啊,ā,interjection (expression),"你來啦，啊！(Nǐ lái la, ā!) - You're here, ah!"
+109,這,zhè / zhèi,this,這是我的書。(Zhè shì wǒ de shū.) - This is my book.
+110,那,nà / nèi,that,那是我的家。(Nà shì wǒ de jiā.) - That is my home.
+111,種,zhǒng,species; kind; sort,這種花很美。(Zhè zhǒng huā hěn měi.) - This kind of flower is beautiful.
+112,鉛筆,qiānbǐ,pencil,我需要一支鉛筆。(Wǒ xūyào yī zhī qiānbǐ.) - I need a pencil.
+113,筆,bǐ,pen,我喜歡用鋼筆寫字。(Wǒ xǐhuān yòng gāngbǐ xiězì.) - I like to write with a fountain pen.
+114,怎麼樣,zěnmeyàng,how about?,你覺得這件衣服怎麼樣？(Nǐ juédé zhè jiàn yīfú zěnmeyàng?) - How about this piece of clothing?
+115,東西,dōngxī,thing; stuff,我有很多東西要帶。(Wǒ yǒu hěn duō dōngxī yào dài.) - I have a lot of things to bring.
+116,枝,zhī,measure word for pens,我有兩枝筆。(Wǒ yǒu liǎng zhī bǐ.) - I have two pens.
+117,塊,kuài,measure word for money,我有十塊錢。(Wǒ yǒu shí kuài qián.) - I have ten dollars.
+118,錢,qián,money,我沒有錢。(Wǒ méiyǒu qián.) - I don't have money.
+119,元,yuán,unit of money,這個東西要二十元。(Zhège dōngxī yào èrshí yuán.) - This costs 20 yuan.
+120,便宜,piányí,cheap; inexpensive,這個包包很便宜。(Zhège bāo bāo hěn piányí.) - This bag is very cheap.
+121,貴,guì,expensive,這雙鞋子很貴。(Zhè shuāng xiézi hěn guì.) - These shoes are very expensive.
+122,顏色,yánsè,color,這個顏色很好看。(Zhège yánsè hěn hǎokàn.) - This color looks great.
+123,紅色,hóngsè,red color,我喜歡紅色。(Wǒ xǐhuān hóngsè.) - I like red color.
+124,紅,hóng,red,這是紅色的蘋果。(Zhè shì hóngsè de píngguǒ.) - This is a red apple.
+125,白色,báisè,white color,她穿的是白色的衣服。(Tā chuān de shì báisè de yīfú.) - She is wearing white clothes.
+126,白,bái,white,我喜歡白色的花。(Wǒ xǐhuān báisè de huā.) - I like white flowers.
+127,好看,hǎokàn,beautiful; good-looking,這本書的封面很漂亮。(Zhè běn shū de fēngmiàn hěn piàoliàng.) - The cover of this book is beautiful.
+128,常 (常常),cháng (chángcháng),often,我常常去跑步。(Wǒ chángcháng qù pǎobù.) - I often go for a run.
+129,衣服,yīfú,clothing,這件衣服很合適。(Zhè jiàn yīfú hěn héshì.) - This clothing is very suitable.
+130,件,jiàn,measure word for clothing,我買了兩件新衣服。(Wǒ mǎi le liǎng jiàn xīn yīfú.) - I bought two new clothes.
+131,請,qǐng,to invite; to treat,請進來。(Qǐng jìnlái.) - Please come in.
+132,玩,wán,to play; to hang out,我們去公園玩。(Wǒmen qù gōngyuán wán.) - We are going to the park to play.
+133,這些,zhèxiē/zhèixiē,these,這些書是我的。(Zhèxiē shū shì wǒ de.) - These books are mine.
+134,那些,nàxiē/nèixiē,those,那些人是我的朋友。(Nàxiē rén shì wǒ de péngyǒu.) - Those people are my friends.
+135,點心,diǎnxīn,snack; light refreshments,我們吃點心。(Wǒmen chī diǎnxīn.) - We are eating snacks.
+136,甜點,tiándiǎn,dessert,我喜歡吃甜點。(Wǒ xǐhuān chī tiándiǎn.) - I like to eat desserts.
+137,甜,tián,sweet,這個蛋糕很甜。(Zhège dàngāo hěn tián.) - This cake is very sweet.
+138,開心,kāixīn,happy,他今天很開心。(Tā jīntiān hěn kāixīn.) - He is very happy today.
+139,咖啡,kāfēi,coffee,我每天早上喝咖啡。(Wǒ měitiān zǎoshàng hē kāfēi.) - I drink coffee every morning.
+140,還是,háishì,or (for questions),你要喝水還是茶？(Nǐ yào hē shuǐ háishì chá?) - Do you want to drink water or tea?
+141,天氣,tiānqì,weather,今天天氣很好。(Jīntiān tiānqì hěn hǎo.) - The weather is great today.
+142,好,hǎo,very,這個地方很好。(Zhège dìfāng hěn hǎo.) - This place is very good.
+143,熱,rè,hot,今天很熱。(Jīntiān hěn rè.) - It’s very hot today.
+144,冷,lěng,cold,外面很冷。(Wàimiàn hěn lěng.) - It’s cold outside.
+145,飲料,yǐnliào,beverage,我們有很多飲料。(Wǒmen yǒu hěn duō yǐnliào.) - We have many beverages.
+146,也,yě,also; too; as well,我也喜歡看電影。(Wǒ yě xǐhuān kàn diànyǐng.) - I also like to watch movies.
+147,餓,è,hungry,我餓了。(Wǒ è le.) - I’m hungry.
+148,渴,kě,thirsty,我渴了。(Wǒ kě le.) - I’m thirsty.
+149,一點/一點兒,yīdiǎn/yīdiǎnr,a little; a bit,我餓了一點。(Wǒ è le yīdiǎn.) - I’m a little hungry.
+150,餐廳/飯館,cāntīng/fànguǎn,restaurant,我們去餐廳吃飯。(Wǒmen qù cāntīng chīfàn.) - We are going to the restaurant to eat.
+151,太,tài,too,這個蛋糕太甜了。(Zhège dàngāo tài tián le.) - This cake is too sweet.
+152,多,duō,many; much,他有很多書。(Tā yǒu hěn duō shū.) - He has many books.
+153,少,shǎo,less; little,我買的水果很少。(Wǒ mǎi de shuǐguǒ hěn shǎo.) - The fruit I bought is very little.
+154,麵,miàn,noodles,我喜歡吃麵。(Wǒ xǐhuān chī miàn.) - I like to eat noodles.
+155,好吃,hǎochī,delicious,這個菜很好吃。(Zhège cài hěn hǎochī.) - This dish is delicious.
+156,好喝,hǎohē,good to drink,這杯水很好喝。(Zhè bēi shuǐ hěn hǎohē.) - This cup of water is good to drink.
+157,了,le,particle (indicating change),我吃飯了。(Wǒ chīfàn le.) - I have eaten.
+158,最,zuì,most,這是我最喜歡的顏色。(Zhè shì wǒ zuì xǐhuān de yánsè.) - This is my favorite color.
+159,賣,mài,to sell,他在市場賣水果。(Tā zài shìchǎng mài shuǐguǒ.) - He sells fruit at the market.
+160,牛肉麵,niúròu miàn,beef noodles,我喜歡吃牛肉麵。(Wǒ xǐhuān chī niúròu miàn.) - I like to eat beef noodles.
+161,點,diǎn,to order from a menu,我點了一份炒飯。(Wǒ diǎn le yī fèn chǎofàn.) - I ordered a serving of fried rice.
+162,碗,wǎn,bowl,我吃了一碗湯。(Wǒ chī le yī wǎn tāng.) - I ate a bowl of soup.
+163,杯,bēi,cup (measure word),我喝了一杯咖啡。(Wǒ hē le yī bēi kāfēi.) - I drank a cup of coffee.
+164,杯子,bēizi,cup,我喝了一杯子水。(Wǒ hē le yī bēizi shuǐ.) - I drank a cup of water.
+165,瓶,píng,bottle,我買了一瓶水。(Wǒ mǎi le yī píng shuǐ.) - I bought a bottle of water.
+166,瓶子,píngzi,bottle (container),這瓶子很漂亮。(Zhè píngzi hěn piàoliàng.) - This bottle is very beautiful.
+167,女,nǚ,female,她是女性。(Tā shì nǚxìng.) - She is female.
+168,男,nán,male,他是男性。(Tā shì nánxìng.) - He is male.
+169,位,wèi,honorific measure word for people,請給我一位座位。(Qǐng gěi wǒ yī wèi zuòwèi.) - Please give me a seat.
+170,紅茶,hóngchá,black tea,我喜歡喝紅茶。(Wǒ xǐhuān hē hóngchá.) - I like to drink black tea.
+171,綠茶,lǜchá,green tea,綠茶對健康很好。(Lǜchá duì jiànkāng hěn hǎo.) - Green tea is very good for health.
+172,綠色,lǜsè,green color,這是綠色的蘋果。(Zhè shì lǜsè de píngguǒ.) - This is a green apple.
+173,請,qǐng,please,請給我那本書。(Qǐng gěi wǒ nà běn shū.) - Please give me that book.
+174,給,gěi,to give,我給他一本書。(Wǒ gěi tā yī běn shū.) - I gave him a book.
+175,一共,yígòng,altogether; in total,這些書一共十本。(Zhèxiē shū yígòng shí běn.) - These books total ten.
+176,多少,duōshǎo,how many; how much,你有多少錢？(Nǐ yǒu duōshǎo qián?) - How much money do you have?
+177,百,bǎi,hundred,這本書花了我一百元。(Zhè běn shū huā le wǒ yī bǎi yuán.) - This book cost me 100 yuan.
+178,千,qiān,thousand,我有一千元。(Wǒ yǒu yī qiān yuán.) - I have 1000 yuan.
+179,萬,wàn,ten thousand,"他有五萬元。(Tā yǒu wǔ wàn yuán.) - He has 50,000 yuan."
+180,零,líng,zero,現在是零下五度。(Xiànzài shì líng xià wǔ dù.) - The temperature is minus five degrees.
+181,找錢,zhǎoqián,to give change,店員給了我找錢。(Diànyuán gěi le wǒ zhǎo qián.) - The cashier gave me change.
+182,夏天,xiàtiān,summer,夏天我喜歡游泳。(Xiàtiān wǒ xǐhuān yóuyǒng.) - I like swimming in the summer.
+183,春天,chūntiān,spring,春天的花很美。(Chūntiān de huā hěn měi.) - The flowers in spring are beautiful.
+184,秋天,qiūtiān,autumn; fall,秋天的葉子變黃了。(Qiūtiān de yèzi biàn huáng le.) - The leaves turn yellow in autumn.
+185,冬天,dōngtiān,winter,冬天很冷。(Dōngtiān hěn lěng.) - Winter is very cold.
+186,店/商店,diàn/shāngdiàn,store; shop,我在商店買東西。(Wǒ zài shāngdiàn mǎi dōngxī.) - I buy things at the store.
+187,果汁,guǒzhī,juice (measure word: 杯/瓶),我喜歡喝橙汁。(Wǒ xǐhuān hē chéng zhī.) - I like to drink orange juice.
+188,牛奶,niúnǎi,milk (measure word: 杯/瓶),我每天喝牛奶。(Wǒ měitiān hē niúnǎi.) - I drink milk every day.
+189,有的,yǒude,some; some of,有的學生喜歡運動。(Yǒu de xuéshēng xǐhuān yùndòng.) - Some students like sports.
+190,每天,měitiān,every day,我每天跑步。(Wǒ měitiān pǎobù.) - I run every day.
+191,錢包,qiánbāo,wallet; purse,我的錢包不見了。(Wǒ de qiánbāo bùjiàn le.) - My wallet is lost.
+192,在,zài,at; in; on; to be located,我在家。(Wǒ zài jiā.) - I am at home.
+193,哪裡/哪兒,nǎlǐ/nǎr,where,你去哪裡？(Nǐ qù nǎlǐ?) - Where are you going?
+194,聽,tīng,to listen,我喜歡聽音樂。(Wǒ xǐhuān tīng yīnyuè.) - I like to listen to music.
+195,音樂,yīnyuè,music,我每天聽音樂。(Wǒ měitiān tīng yīnyuè.) - I listen to music every day.
+196,有空,yǒukòng,free; at leisure; available,我今天下午有空。(Wǒ jīntiān xiàwǔ yǒukòng.) - I am free this afternoon.
+197,下午茶,xiàwǔchá,afternoon tea,我喜歡喝下午茶。(Wǒ xǐhuān hē xiàwǔchá.) - I like to drink afternoon tea.
+198,不錯,búcuò,not bad,這部電影不錯。(Zhè bù diànyǐng búcuò.) - This movie is not bad.
+199,咖啡廳,kāfēitīng,café,我們在咖啡廳見面。(Wǒmen zài kāfēitīng jiànmiàn.) - We meet at the café.
+200,那裡/那兒,nàlǐ/nàr,there,那裡很遠。(Nàlǐ hěn yuǎn.) - It's far there.
+201,這裡/這兒,zhèlǐ/zhèr,here,這裡很安靜。(Zhèlǐ hěn ānjìng.) - It’s very quiet here.
+202,冰淇淋,bīngqílín,ice cream,我喜歡吃冰淇淋。(Wǒ xǐhuān chī bīngqílín.) - I like to eat ice cream.
+203,巧克力,qiǎokèlì,chocolate,我喜歡巧克力。(Wǒ xǐhuān qiǎokèlì.) - I like chocolate.
+204,半,bàn,half,我只吃了一半。(Wǒ zhǐ chī le yī bàn.) - I ate only half.
+205,吧,ba,final particle (suggestion),我們去吃飯吧。(Wǒmen qù chīfàn ba.) - Let's go eat.
+206,跟,gēn,and,我跟朋友一起去。(Wǒ gēn péngyǒu yīqǐ qù.) - I am going with my friend.
+207,可是,kěshì,but,"我很忙，可是我會來。(Wǒ hěn máng, kěshì wǒ huì lái.) - I am busy, but I will come."
+208,房間,fángjiān,room (measure word: 個/間),這是我的房間。(Zhè shì wǒ de fángjiān.) - This is my room.
+209,房子,fángzi,house (measure word: 棟),我的房子很大。(Wǒ de fángzi hěn dà.) - My house is very big.
+210,裡面,lǐ (miàn),inside; in,我的書在桌子裡面。(Wǒ de shū zài zhuōzi lǐmiàn.) - My books are inside the table.
+211,外面,wài (miàn),outside,他在外面等我。(Tā zài wàimiàn děng wǒ.) - He is waiting for me outside.
+212,客廳,kètīng,living room,我們的客廳很大。(Wǒmen de kètīng hěn dà.) - Our living room is very big.
+213,桌子,zhuōzi,table (measure word: 張),這張桌子很漂亮。(Zhè zhāng zhuōzi hěn piàoliàng.) - This table is very beautiful.
+214,椅子,yǐzi,chair (measure word: 張),我買了兩張椅子。(Wǒ mǎi le liǎng zhāng yǐzi.) - I bought two chairs.
+215,上面,shàng (miàn),on top of; above,書在桌子上面。(Shū zài zhuōzi shàngmiàn.) - The book is on top of the table.
+216,下面,xià (miàn),below; underneath,鞋子在桌子下面。(Xiézi zài zhuōzi xiàmiàn.) - The shoes are under the table.
+217,旁邊,pángbiān,next to; by the side of,餅乾在杯子旁邊。(Bǐnggān zài bēizi pángbiān.) - The cookies are next to the cup.
+218,前面,qián (miàn),in front; ahead,車站在前面。(Chēzhàn zài qiánmiàn.) - The bus station is ahead.
+219,後面,hòu (miàn),behind; at the back,我的書包在後面。(Wǒ de shūbāo zài hòumiàn.) - My backpack is behind.
+220,哥哥,gēge,elder brother,我的哥哥很高。(Wǒ de gēge hěn gāo.) - My older brother is tall.
+221,姐姐+B230/姊姊,jiějie,elder sister,我有一個姐姐。(Wǒ yǒu yī ge jiějie.) - I have an older sister.
+222,弟弟,dìdi,younger brother,我的弟弟很聰明。(Wǒ de dìdi hěn cōngmíng.) - My younger brother is very smart.
+223,妹妹,mèimei,younger sister,我妹妹很可愛。(Wǒ mèimei hěn kě'ài.) - My younger sister is very cute.
+224,沙發,shāfā,sofa (measure word: 張),我們的沙發很舒服。(Wǒmen de shāfā hěn shūfú.) - Our sofa is very comfortable.
+225,幫,bāng,to help,我可以幫你。(Wǒ kěyǐ bāng nǐ.) - I can help you.
+226,找,zhǎo,to look for,我在找我的手機。(Wǒ zài zhǎo wǒ de shǒujī.) - I am looking for my phone.
+227,廚房,chúfáng,kitchen (measure word: 間),廚房在房子裡面。(Chúfáng zài fángzi lǐmiàn.) - The kitchen is inside the house.
+228,再,zài,again,我們再試一次。(Wǒmen zài shì yīcì.) - Let's try again.
+229,床,chuáng,bed (measure word: 張),我在床上睡覺。(Wǒ zài chuáng shàng shuìjiào.) - I sleep on the bed.
+230,家具,jiājù,furniture,我們買了新家具。(Wǒmen mǎi le xīn jiājù.) - We bought new furniture.
+231,電視機,diànshì (jī),television (measure word: 台),他在看電視。(Tā zài kàn diànshì.) - He is watching TV.
+232,窗戶,chuānghù,window,我們的窗戶很大。(Wǒmen de chuānghù hěn dà.) - Our window is very big.
+233,門,mén,door,門開著。(Mén kāi zhe.) - The door is open.
+234,貓,māo,cat (measure word: 隻),我有一隻貓。(Wǒ yǒu yī zhī māo.) - I have a cat.
+235,狗,gǒu,dog (measure word: 隻),他養了一隻狗。(Tā yǎng le yī zhī gǒu.) - He raised a dog.
+236,鳥,niǎo,bird (measure word: 隻),我看到一隻鳥。(Wǒ kàn dào yī zhī niǎo.) - I saw a bird.
+237,打,dǎ,to hit; to beat; to play (ball games),我喜歡打籃球。(Wǒ xǐhuān dǎ lánqiú.) - I like to play basketball.
+238,網球,wǎngqiú,tennis,他在打網球。(Tā zài dǎ wǎngqiú.) - He is playing tennis.
+239,籃球,lánqiú,basketball,我們每週打籃球。(Wǒmen měi zhōu dǎ lánqiú.) - We play basketball every week.
+240,棒球,bàngqiú,baseball,他的最愛是棒球。(Tā de zuì ài shì bàngqiú.) - His favorite is baseball.
+241,足球,zúqiú,football; soccer,我喜歡踢足球。(Wǒ xǐhuān tī zúqiú.) - I like to play soccer.
+242,踢,tī,to kick,他踢足球踢得很好。(Tā tī zúqiú tī de hěn hǎo.) - He kicks soccer very well.
+243,海邊,hǎibiān,seaside; beach,我們去海邊玩。(Wǒmen qù hǎibiān wán.) - We go to the beach to play.
+244,風景,fēngjǐng,scenery; landscapes,這裡的風景很美。(Zhèlǐ de fēngjǐng hěn měi.) - The scenery here is beautiful.
+245,山,shān,mountain,我們爬了山。(Wǒmen pá le shān.) - We climbed the mountain.
+246,游泳,yóuyǒng,to swim,我學會了游泳。(Wǒ xuéhuì le yóuyǒng.) - I learned how to swim.
+247,會,huì,to be able to; can,我會說中文。(Wǒ huì shuō zhōngwén.) - I can speak Chinese.
+248,得,de,complement marker,他游泳游得很快。(Tā yóuyǒng yóu de hěn kuài.) - He swims very fast.
+249,跑步,pǎobù,to run,我每天跑步。(Wǒ měitiān pǎobù.) - I run every day.
+250,跑,pǎo,to run,他喜歡跑步。(Tā xǐhuān pǎobù.) - He likes to run.
+251,慢,màn,slow; slowly,我跑得很慢。(Wǒ pǎo de hěn màn.) - I run very slowly.
+252,快,kuài,fast; quick,他跑得很快。(Tā pǎo de hěn kuài.) - He runs very fast.
+253,說,shuō,to say; to speak,我想說中文。(Wǒ xiǎng shuō zhōngwén.) - I want to speak Chinese.
+254,說話,shuōhuà,to talk; to speak,我們可以說話嗎？(Wǒmen kěyǐ shuōhuà ma?) - Can we talk?
+255,電影,diànyǐng,movie (measure word: 部),我昨天看了一部電影。(Wǒ zuótiān kàn le yī bù diànyǐng.) - I watched a movie yesterday.
+256,電影院,diànyǐngyuàn,movie theater,我們去電影院看電影。(Wǒmen qù diànyǐngyuàn kàn diànyǐng.) - We go to the movie theater to watch a movie.
+257,有趣,yǒuqù,interesting,這部電影很有趣。(Zhè bù diànyǐng hěn yǒuqù.) - This movie is very interesting.
+258,覺得,juéde,to feel; to think,我覺得這個地方很漂亮。(Wǒ juéde zhège dìfāng hěn piàoliàng.) - I think this place is beautiful.
+259,有一點兒,yǒu(yī)diǎn(r),a little; a bit,我有點累。(Wǒ yǒudiǎn lèi.) - I am a little tired.
+260,休息,xiūxi,to take a rest,我休息了一會兒。(Wǒ xiūxi le yī huǐr.) - I took a rest for a while.
+261,上網,shàngwǎng,to surf the internet,我晚上會上網。(Wǒ wǎnshàng huì shàngwǎng.) - I will surf the internet in the evening.
+262,電腦,diànnǎo,computer (measure word: 部),我的電腦壞了。(Wǒ de diànnǎo huài le.) - My computer is broken.
+263,手機,shǒujī,cell phone (measure word: 支),我的手機很新。(Wǒ de shǒujī hěn xīn.) - My cellphone is very new.
+264,應該,yīnggāi,should; ought to,你應該多喝水。(Nǐ yīnggāi duō hē shuǐ.) - You should drink more water.
+265,運動,yùndòng,to exercise,我每天早上運動。(Wǒ měitiān zǎoshàng yùndòng.) - I exercise every morning.
+266,可以,kěyǐ,can; could (suggestion),你可以來我的家。(Nǐ kěyǐ lái wǒ de jiā.) - You can come to my house.
+267,騎,qí,to ride,我騎自行車去學校。(Wǒ qí zìxíngchē qù xuéxiào.) - I ride my bike to school.
+268,腳踏車/自行車,jiǎotàchē/zìxíngchē,bicycle; bike (measure word: 輛),我有一輛腳踏車。(Wǒ yǒu yī liàng jiǎotàchē.) - I have a bicycle.
+269,只,zhǐ,only; just,我只想要水。(Wǒ zhǐ xiǎng yào shuǐ.) - I only want water.
+270,後天,hòutiān,the day after tomorrow,後天是星期天。(Hòutiān shì xīngqítiān.) - The day after tomorrow is Sunday.
+271,前天,qiántiān,the day before yesterday,前天我去了市場。(Qiántiān wǒ qù le shìchǎng.) - I went to the market the day before yesterday.
+272,興趣,xìngqù,interest; hobby,我對音樂有興趣。(Wǒ duì yīnyuè yǒu xìngqù.) - I am interested in music.
+273,幾,jǐ,several; a few,你有幾個兄弟姐妹？(Nǐ yǒu jǐ ge xiōngdì jiěmèi?) - How many siblings do you have?
+274,學,xué,to learn; to study,我想學中文。(Wǒ xiǎng xué zhōngwén.) - I want to learn Chinese.
+275,學習,xuéxí,to learn; to study,我學習英文。(Wǒ xuéxí Yīngwén.) - I study English.
+276,唱歌,chànggē,to sing (a song),她喜歡唱歌。(Tā xǐhuān chànggē.) - She likes to sing.
+277,歌,gē,song,這首歌很好聽。(Zhè shǒu gē hěn hǎotīng.) - This song is very nice.
+278,首,shǒu,measure word for songs,這首歌很流行。(Zhè shǒu gē hěn liúxíng.) - This song is very popular.
+279,怎麼,zěnme,how,這個怎麼做？(Zhège zěnme zuò?) - How is this done?
+280,到,dào,to; to arrive,我到學校了。(Wǒ dào xuéxiào le.) - I arrived at school.
+281,飯店,fàndiàn,hotel,
+282,旅館,lǚguǎn,inn; hotel,
+283,找,zhǎo,to visit; to see (a person),
+284,韓國,Hánguó,Korea,
+285,等,děng,to wait for,
+286,坐,zuò,to take (transportation),
+287,捷運/地鐵,jiéyùn/dìtiě,MRT; metro; subway,
+288,公車,gōngchē,bus (measure word: 部/輛),
+289,車(子)/汽車,chē(zi)/qìchē,car; automobile,
+290,計程車,jìchéngchē,taxi,
+291,火車,huǒchē,train,
+292,上車,shàngchē,to get on a bus; to get in a car,
+293,下車,xiàchē,to get off a bus; to get out of a car,
+294,遠,yuǎn,far,
+295,近,jìn,near,
+296,從,cóng,from,
+297,走路,zǒulù,to walk (on foot),
+298,先,xiān,first; in advance,
+299,地圖,dìtú,map (measure word: 張),
+300,錶/手錶,biǎo/shǒubiǎo,watch (measure word: 個),
+301,路/馬路,lù/mǎlù,road (measure word: 條),
+302,街,jiē,street (measure word: 條),
+303,地方,dìfāng,place,
+304,附近,fùjìn,vicinity,
+305,郵局,yóujú,post office (measure word: 家/間),
+306,寄信,jì xìn,to mail,
+307,信,xìn,letter (measure word: 封),
+308,信封,xìnfēng,envelope,
+309,超級市場/超市,chāojíshìchǎng/chāoshì,supermarket,
+310,市場,shìchǎng,market,
+311,一定,yídìng,surely; certainly; definitely,
+312,又,yòu,both...and...,
+313,方便,fāngbiàn,convenient,
+314,舒服,shūfú,comfortable,
+315,線,xiàn,line (measure word: 條),
+316,藍,lán,blue,
+317,藍色,lánsè,blue color,
+318,機場/飛機場,jīchǎng/fēijīchǎng,airport,
+319,開車,kāichē,to drive a car,
+320,司機,sījī,driver,
+321,車站,chēzhàn,bus (or rail) station,
+322,站,zhàn,station,
+323,飛機,fēijī,plane,
+324,架,jià,measure word for planes,
+325,起飛,qǐfēi,to take off (for planes),
+326,跳舞,tiàowǔ,to dance,
+327,畫畫,huàhuà,to draw; to paint,
+328,畫,huà,painting,
+329,平常,píngcháng,generally; usually,
+330,有(的)時候,yǒu(de)shíhòu,sometimes,
+331,比賽,bǐsài,competition; race; game,
+332,真,zhēn,really,
+333,高興,gāoxìng,happy,
